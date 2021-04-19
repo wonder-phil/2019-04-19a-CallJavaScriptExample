@@ -1,0 +1,15 @@
+{
+  "name": "2021_04_19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "call_bolt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "neo4j-driver": "^4.2.3"
+  }
+}
